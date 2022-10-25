@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>assets/pig.png</file>
+        <file>assets/cat.png</file>
+        <file>assets/rabbit.png</file>
+        <file>assets/dog.png</file>
+        <file>assets/bear.png</file>
+    </qresource>
+</RCC>
