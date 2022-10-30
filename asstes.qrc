@@ -1,9 +1,15 @@
 <RCC>
     <qresource prefix="/assets">
-        <file>assets/pig.png</file>
         <file>assets/cat.png</file>
         <file>assets/rabbit.png</file>
-        <file>assets/dog.png</file>
         <file>assets/bear.png</file>
+        <file>assets/cat-soup.png</file>
+        <file>assets/bear-soup.png</file>
+        <file>assets/rabbit-soup.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>assets/bear-soup.png</file>
+        <file>assets/cat-soup.png</file>
+        <file>assets/rabbit-soup.png</file>
     </qresource>
 </RCC>
