@@ -1,4 +1,4 @@
-# Design Pattern - Iterator pattern
+# Design Pattern - Template pattern
 
 ## Description
 
